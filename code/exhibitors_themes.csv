@@ -1,0 +1,184 @@
+,Unnamed: 0,exhibitorid,Name,MainCategories,Cluster,Cluster_Theme
+0,0,90556,Turkey Travels,resort hotel,7,Diverse Tourism Options
+1,0,90556,Turkey Travels,inbound tour operator,3,Tour Operator Diversity
+2,0,90556,Turkey Travels,outbound tour operator,3,Tour Operator Diversity
+3,1,92462,Russian Travel Company,apartments/residential hotel,11,Accommodation Types
+4,1,92462,Russian Travel Company,mass market tour operators,3,Tour Operator Diversity
+5,1,92462,Russian Travel Company,independent travel agency,15,Travel Services
+6,1,92462,Russian Travel Company,search engine for travel/aggregator,16,Travel Booking Solutions
+7,1,92462,Russian Travel Company,other transport services,2,Transport and Payments
+8,1,92462,Russian Travel Company,services and facilities,9,Helicopter Services
+9,2,92491,Indian Travel Company,apartments/residential hotel,11,Accommodation Types
+10,2,92491,Indian Travel Company,hostel/motel,11,Accommodation Types
+11,2,92491,Indian Travel Company,outbound tour operator,3,Tour Operator Diversity
+12,3,92492,Asia Tourism,hotel/hotel chain/inn,10,Hospitality Services
+13,3,92492,Asia Tourism,resort hotel,7,Diverse Tourism Options
+14,3,92492,Asia Tourism,industrial tourism,8,Tourism Specialties
+15,3,92492,Asia Tourism,online media,1,Media Innovations
+16,4,92493,SriLanka Adventures,transfer services,2,Transport and Payments
+17,4,92493,SriLanka Adventures,cultural heritage site,13,Cultural Institutions
+18,4,92493,SriLanka Adventures,industrial tourism,8,Tourism Specialties
+19,5,92494,Exotic Europe Travels,hostel/motel,11,Accommodation Types
+20,5,92494,Exotic Europe Travels,management company,4,Financial Services
+21,5,92494,Exotic Europe Travels,inbound tour operator,3,Tour Operator Diversity
+22,5,92494,Exotic Europe Travels,search engine for travel/aggregator,16,Travel Booking Solutions
+23,6,92495,Luxury Europe Company,boarding house,-1,Event Management
+24,6,92495,Luxury Europe Company,cruise tour operators,3,Tour Operator Diversity
+25,6,92495,Luxury Europe Company,other transport services,2,Transport and Payments
+26,6,92495,Luxury Europe Company,nto: national tourism office,0,Tourism Offices
+27,6,92495,Luxury Europe Company,cleaning,13,Cultural Institutions
+28,7,92496,DreamTravel Company ,management company,4,Financial Services
+29,7,92496,DreamTravel Company ,specialized tour operator,3,Tour Operator Diversity
+30,7,92496,DreamTravel Company ,helicopter services,9,Helicopter Services
+31,7,92496,DreamTravel Company ,other transport services,2,Transport and Payments
+32,8,92497,Happy Company 2,boarding house,-1,Event Management
+33,8,92497,Happy Company 2,resort hotel,7,Diverse Tourism Options
+34,8,92497,Happy Company 2,campervans and caravans,12,Recreational Vehicles
+35,8,92497,Happy Company 2,vr and ar,1,Media Innovations
+36,8,92497,Happy Company 2,smart home technology,12,Recreational Vehicles
+37,9,68142,Global Tours Voyages,travel  agencies,15,Travel Services
+38,9,68142,Global Tours Voyages,other services in the sphere of business tourism,8,Tourism Specialties
+39,9,68142,Global Tours Voyages,mice and event management,-1,Event Management
+40,9,68142,Global Tours Voyages,motorhomes,12,Recreational Vehicles
+41,9,68142,Global Tours Voyages,religious tourism,7,Diverse Tourism Options
+42,9,68142,Global Tours Voyages,payment service provider,2,Transport and Payments
+43,9,68142,Global Tours Voyages,museums and parks,13,Cultural Institutions
+44,9,68142,Global Tours Voyages,hostel/motel,11,Accommodation Types
+45,9,68142,Global Tours Voyages,nature park,14,Wildlife Attractions
+46,9,68142,Global Tours Voyages,regional tourism office,0,Tourism Offices
+47,10,27827,Exotic Tours Holidays,other type of specialized tourism,8,Tourism Specialties
+48,10,27827,Exotic Tours Holidays,tic: travel information centre,0,Tourism Offices
+49,11,74870,Exotic Tours Journeys,motorhomes and caravans,12,Recreational Vehicles
+50,11,74870,Exotic Tours Journeys,independent travel agency,15,Travel Services
+51,11,74870,Exotic Tours Journeys,hotel equipment and service suppliers,10,Hospitality Services
+52,11,74870,Exotic Tours Journeys,authorized travel agency,15,Travel Services
+53,11,74870,Exotic Tours Journeys,hospitals and clinics,5,Healthcare Services
+54,11,74870,Exotic Tours Journeys,insurance company,4,Financial Services
+55,11,74870,Exotic Tours Journeys,print media,1,Media Innovations
+56,11,74870,Exotic Tours Journeys,museum,13,Cultural Institutions
+57,12,56923,Royal Tours Expeditions,data analytics and personalization,0,Tourism Offices
+58,12,56923,Royal Tours Expeditions,tourist board/government/nto,0,Tourism Offices
+59,13,80700,Exotic Holidays Services,gastro tourism,8,Tourism Specialties
+60,14,46350,Prime Travel Journeys,vr and ar,1,Media Innovations
+61,15,55311,Sunny Adventures Journeys,print media,1,Media Innovations
+62,15,55311,Sunny Adventures Journeys,boarding house,-1,Event Management
+63,15,55311,Sunny Adventures Journeys,railway company,4,Financial Services
+64,15,55311,Sunny Adventures Journeys,religious tourism,7,Diverse Tourism Options
+65,15,55311,Sunny Adventures Journeys,mobile homes and glampings,12,Recreational Vehicles
+66,15,55311,Sunny Adventures Journeys,motorhomes and caravans,12,Recreational Vehicles
+67,15,55311,Sunny Adventures Journeys,it solutions for travel industry,15,Travel Services
+68,15,55311,Sunny Adventures Journeys,adventure tourism,7,Diverse Tourism Options
+69,15,55311,Sunny Adventures Journeys,search engine for travel/aggregator,16,Travel Booking Solutions
+70,15,55311,Sunny Adventures Journeys,industry association,6,Industry Manufacturers
+71,15,55311,Sunny Adventures Journeys,gastro tourism,8,Tourism Specialties
+72,16,31331,Exotic Adventures Journeys,authorized travel agency,15,Travel Services
+73,16,31331,Exotic Adventures Journeys,receptive/ground operator,3,Tour Operator Diversity
+74,16,31331,Exotic Adventures Journeys,"banking, investments",4,Financial Services
+75,17,97818,Sunny Trips Adventures,authorized travel agency,15,Travel Services
+76,17,97818,Sunny Trips Adventures,tic: travel information centre,0,Tourism Offices
+77,18,13033,Prime Vacations Expeditions,equipment for restaurants and catering,10,Hospitality Services
+78,18,13033,Prime Vacations Expeditions,insurance companies and banking,4,Financial Services
+79,18,13033,Prime Vacations Expeditions,radio and tv,1,Media Innovations
+80,18,13033,Prime Vacations Expeditions,hostel/motel,11,Accommodation Types
+81,19,15881,Royal Trips Tours,airlines,-1,Event Management
+82,19,15881,Royal Trips Tours,online booking system and trip planner software,16,Travel Booking Solutions
+83,19,15881,Royal Trips Tours,mobile app,12,Recreational Vehicles
+84,19,15881,Royal Trips Tours,management company,4,Financial Services
+85,19,15881,Royal Trips Tours,motorhomes and caravans,12,Recreational Vehicles
+86,19,15881,Royal Trips Tours,tourist board/government/nto,0,Tourism Offices
+87,19,15881,Royal Trips Tours,hostel/motel,11,Accommodation Types
+88,19,15881,Royal Trips Tours,payment service provider,2,Transport and Payments
+89,19,15881,Royal Trips Tours,religious tourism,7,Diverse Tourism Options
+90,20,10846,Royal Adventures Adventures,travel  agencies,15,Travel Services
+91,20,10846,Royal Adventures Adventures,payment service provider,2,Transport and Payments
+92,20,10846,Royal Adventures Adventures,national park,14,Wildlife Attractions
+93,20,10846,Royal Adventures Adventures,gastro tourism,8,Tourism Specialties
+94,20,10846,Royal Adventures Adventures,medical products and machinery manufacturer/distributor,6,Industry Manufacturers
+95,20,10846,Royal Adventures Adventures,helicopter services,9,Helicopter Services
+96,21,98889,Exotic Tours Tours,short-term complex rest and medical services,5,Healthcare Services
+97,21,98889,Exotic Tours Tours,mass market tour operators,3,Tour Operator Diversity
+98,21,98889,Exotic Tours Tours,study abroad and volunteering,7,Diverse Tourism Options
+99,21,98889,Exotic Tours Tours,security system manufacturer/distributor,6,Industry Manufacturers
+100,21,98889,Exotic Tours Tours,"real estate, property and homes in russia",11,Accommodation Types
+101,22,18004,Exotic Getaways Journeys,"banking, investments",4,Financial Services
+102,23,44942,Royal Holidays Adventures,zoo,14,Wildlife Attractions
+103,23,44942,Royal Holidays Adventures,online travel agency,16,Travel Booking Solutions
+104,23,44942,Royal Holidays Adventures,nto: national tourism office,0,Tourism Offices
+105,23,44942,Royal Holidays Adventures,short-term complex rest and medical services,5,Healthcare Services
+106,24,48028,Prime Adventures Journeys,health and medical tourism,7,Diverse Tourism Options
+107,24,48028,Prime Adventures Journeys,mice and event management,-1,Event Management
+108,24,48028,Prime Adventures Journeys,niche tourism,8,Tourism Specialties
+109,24,48028,Prime Adventures Journeys,radio and tv,1,Media Innovations
+110,24,48028,Prime Adventures Journeys,industry association,6,Industry Manufacturers
+111,24,48028,Prime Adventures Journeys,mobile app,12,Recreational Vehicles
+112,24,48028,Prime Adventures Journeys,vr and ar,1,Media Innovations
+113,24,48028,Prime Adventures Journeys,manufacturer/distributor of consumables,6,Industry Manufacturers
+114,24,48028,Prime Adventures Journeys,gastro tourism,8,Tourism Specialties
+115,24,48028,Prime Adventures Journeys,other type of specialized tourism,8,Tourism Specialties
+116,24,48028,Prime Adventures Journeys,theme and water park,14,Wildlife Attractions
+117,25,72153,Elite Adventures Holidays,independent travel agency,15,Travel Services
+118,25,72153,Elite Adventures Holidays,bus services,2,Transport and Payments
+119,25,72153,Elite Adventures Holidays,national park,14,Wildlife Attractions
+120,25,72153,Elite Adventures Holidays,nto: national tourism office,0,Tourism Offices
+121,25,72153,Elite Adventures Holidays,helicopter services,9,Helicopter Services
+122,25,72153,Elite Adventures Holidays,network franchise travel agency,15,Travel Services
+123,25,72153,Elite Adventures Holidays,youth travel,7,Diverse Tourism Options
+124,25,72153,Elite Adventures Holidays,online booking system and trip planner software,16,Travel Booking Solutions
+125,25,72153,Elite Adventures Holidays,print media,1,Media Innovations
+126,25,72153,Elite Adventures Holidays,hair transplantation,5,Healthcare Services
+127,25,72153,Elite Adventures Holidays,other type of accommodation facility,11,Accommodation Types
+128,25,72153,Elite Adventures Holidays,online travel agency,16,Travel Booking Solutions
+129,26,32278,Exotic Holidays Holidays,authorized travel agency,15,Travel Services
+130,26,32278,Exotic Holidays Holidays,services and facilities,9,Helicopter Services
+131,26,32278,Exotic Holidays Holidays,insurance company,4,Financial Services
+132,27,51839,Dream Getaways Expeditions,hotel equipment and service suppliers,10,Hospitality Services
+133,27,51839,Dream Getaways Expeditions,other type of motorhomes and glamping,12,Recreational Vehicles
+134,27,51839,Dream Getaways Expeditions,hospitals and clinics,5,Healthcare Services
+135,27,51839,Dream Getaways Expeditions,mice agency,-1,Event Management
+136,27,51839,Dream Getaways Expeditions,real estate agencies,15,Travel Services
+137,27,51839,Dream Getaways Expeditions,museum,13,Cultural Institutions
+138,28,30134,Global Holidays Expeditions,data analytics and personalization,0,Tourism Offices
+139,28,30134,Global Holidays Expeditions,specialized tour operator,3,Tour Operator Diversity
+140,29,54579,Prime Vacations Voyages,nto: national tourism office,0,Tourism Offices
+141,29,54579,Prime Vacations Voyages,insurance company,4,Financial Services
+142,29,54579,Prime Vacations Voyages,cultural heritage site,13,Cultural Institutions
+143,29,54579,Prime Vacations Voyages,other type of motorhomes,12,Recreational Vehicles
+144,29,54579,Prime Vacations Voyages,cruise tour operators,3,Tour Operator Diversity
+145,30,21865,Dream Holidays Holidays,payment service provider,2,Transport and Payments
+146,30,21865,Dream Holidays Holidays,museums and parks,13,Cultural Institutions
+147,30,21865,Dream Holidays Holidays,global healthcare providers,5,Healthcare Services
+148,30,21865,Dream Holidays Holidays,inbound tour operator,3,Tour Operator Diversity
+149,30,21865,Dream Holidays Holidays,travel  agencies,15,Travel Services
+150,30,21865,Dream Holidays Holidays,theme and water park,14,Wildlife Attractions
+151,30,21865,Dream Holidays Holidays,mobile homes and glampings,12,Recreational Vehicles
+152,30,21865,Dream Holidays Holidays,mobile app,12,Recreational Vehicles
+153,30,21865,Dream Holidays Holidays,adventure tourism,7,Diverse Tourism Options
+154,30,21865,Dream Holidays Holidays,network franchise travel agency,15,Travel Services
+155,30,21865,Dream Holidays Holidays,mice agency,-1,Event Management
+156,31,97920,Dream Tours Tours,bus services,2,Transport and Payments
+157,31,97920,Dream Tours Tours,museum,13,Cultural Institutions
+158,31,97920,Dream Tours Tours,"real estate, property and homes abroad",11,Accommodation Types
+159,31,97920,Dream Tours Tours,industrial tourism,8,Tourism Specialties
+160,31,97920,Dream Tours Tours,zoo,14,Wildlife Attractions
+161,31,97920,Dream Tours Tours,museums and parks,13,Cultural Institutions
+162,31,97920,Dream Tours Tours,gastro tourism,8,Tourism Specialties
+163,31,97920,Dream Tours Tours,nto: national tourism office,0,Tourism Offices
+164,31,97920,Dream Tours Tours,smart home technology,12,Recreational Vehicles
+165,32,18960,Elite Travel Services,cultural heritage site,13,Cultural Institutions
+166,32,18960,Elite Travel Services,print media,1,Media Innovations
+167,32,18960,Elite Travel Services,real estate agencies,15,Travel Services
+168,32,18960,Elite Travel Services,medical products and machinery manufacturer/distributor,6,Industry Manufacturers
+169,33,15642,Dream Travel Services,event organizer,-1,Event Management
+170,33,15642,Dream Travel Services,apartments/residential hotel,11,Accommodation Types
+171,33,15642,Dream Travel Services,mobile homes and glampings,12,Recreational Vehicles
+172,33,15642,Dream Travel Services,search engine for travel/aggregator,16,Travel Booking Solutions
+173,33,15642,Dream Travel Services,hotel/hotel chain/inn,10,Hospitality Services
+174,34,17729,Sunny Travel Journeys,accomodation providers,11,Accommodation Types
+175,34,17729,Sunny Travel Journeys,radio and tv,1,Media Innovations
+176,34,17729,Sunny Travel Journeys,car rental/carsharing,12,Recreational Vehicles
+177,34,17729,Sunny Travel Journeys,specialized tour operator,3,Tour Operator Diversity
+178,34,17729,Sunny Travel Journeys,receptive/ground operator,3,Tour Operator Diversity
+179,34,17729,Sunny Travel Journeys,hotel/hotel chain/inn,10,Hospitality Services
+180,34,17729,Sunny Travel Journeys,zoo,14,Wildlife Attractions
+181,34,17729,Sunny Travel Journeys,"banking, investments",4,Financial Services
+182,34,17729,Sunny Travel Journeys,helicopter services,9,Helicopter Services
